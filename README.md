@@ -7,7 +7,8 @@ An interactive, open-source computational design suite built in Python for autom
 
 ## Interactive Demo
 
-![Demo](https://github.com/user-attachments/assets/...)
+![demo](https://github.com/user-attachments/assets/8a57d535-f1f5-4ef2-9bae-af6bf049d98c)
+
 
 ---
 
