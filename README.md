@@ -7,7 +7,7 @@ An interactive, open-source computational design suite built in Python for autom
 
 ## Interactive Demo
 
-![demo]<p align="center">
+<p align="center">
   <img src="demo.gif" alt="RCC Detailing Demo" width="650">
 </p>
 
